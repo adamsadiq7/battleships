@@ -1,4 +1,4 @@
-# games
+# C Games
 
 ## All games can be compiled using the gcc compiler
 
